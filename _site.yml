@@ -1,10 +1,16 @@
 name: "faithfatchen"
 output_dir: "."
 navbar:
-  title: "About Me"
+  title: "Faith Fatchenn"
   left:
-    - text: "Home"
+    - text: "About Me"
       href: index.html
+    - text: "Projects"
+      menu:
+      - text: "Paper 1"
+        href:  paper1.html
+      - text: "Paper 2"
+        href: paper2.html 
   right:
     - text: "Github"
       icon: fa-github

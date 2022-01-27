@@ -5,4 +5,4 @@ title: "Hello There"
 Welcome to my website! 
 
 Here you can see all the awesome projects I'm working on. 
-Hi
+I love math!
