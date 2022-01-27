@@ -1,7 +1,7 @@
-name: "my-website"
+name: "faithfatchen"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "About Me"
   left:
     - text: "Home"
       href: index.html
@@ -9,3 +9,5 @@ navbar:
     - text: "Github"
       icon: fa-github
       href: https://github.com/
+    - text: "LinkedIn"
+      href: https://www.linkedin.com/in/faith-fatchen-2280221b9/
